@@ -69,8 +69,8 @@
 <br/>
 <br/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=denizcimert&show_icons=true&locale=en&theme=dark" alt="denizcimert" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=denizcimert&theme=dark" alt="denizcimert" />
+<img src="https://github-readme-stats.vercel.app/api?username=denizcimert&show_icons=true&locale=en&theme=dark" alt="denizcimert" height="120"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=denizcimert&theme=dark" alt="denizcimert" height="120"/>
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denizcimert&show_icons=true&locale=en&layout=compact&theme=dark" alt="denizcimert" />
